@@ -1,0 +1,2 @@
+[console_scripts]
+http-server = http_server.cli:main

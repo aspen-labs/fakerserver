@@ -1,3 +1,12 @@
+Metadata-Version: 2.4
+Name: http-server
+Version: 0.1.0
+Summary: A multithreaded REST API for generating fake/mock data for testing and development
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.3.0
+Requires-Dist: faker>=37.12.0
+
 # Fake Data Generator API
 
 A multithreaded REST API for generating fake/mock data for testing and development, built with Python and the Faker library.
