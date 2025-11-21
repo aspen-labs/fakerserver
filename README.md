@@ -1,7 +1,7 @@
 # Fake Data Generator API
 
 A multithreaded REST API for generating fake/mock data for testing and development, built with Python and the Faker library.
-
+Designed on multiarch
 ## Features
 
 - Multithreaded request handling for concurrent connections
